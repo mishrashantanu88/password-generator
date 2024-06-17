@@ -56,7 +56,6 @@ h1{
 }
 
 .display{
-    text-transform: uppercase;
     color: var(--vb-yellow);
     width: 100%;
     background-color: transparent;
